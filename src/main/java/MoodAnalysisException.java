@@ -1,4 +1,4 @@
-public class MoodAnalysisExceptionextends extends Exception {
+public class MoodAnalysisException extends Exception {
     public enum Exception_Type {
         NULL, EMPTY
     }
